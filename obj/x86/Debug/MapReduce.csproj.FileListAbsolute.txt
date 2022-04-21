@@ -1,0 +1,5 @@
+/mnt/data/Misha/Projects/csharp/MapReduce/MapReduce/obj/x86/Debug/MapReduce.csprojAssemblyReference.cache
+/mnt/data/Misha/Projects/csharp/MapReduce/MapReduce/bin/Debug/MapReduce.exe
+/mnt/data/Misha/Projects/csharp/MapReduce/MapReduce/bin/Debug/MapReduce.pdb
+/mnt/data/Misha/Projects/csharp/MapReduce/MapReduce/obj/x86/Debug/MapReduce.exe
+/mnt/data/Misha/Projects/csharp/MapReduce/MapReduce/obj/x86/Debug/MapReduce.pdb
